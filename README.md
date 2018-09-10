@@ -1,6 +1,8 @@
 # online_shops
 online_shops project
 
+Written in HTML, CSS, Javascript for frontend and PHP Laravel Framework for backend.
+
 This is an online shopping websites where you can order products and get your phones delivered to your home.
 
 You can also view individual stores created by other customers and buy their products( CLick the 'Stores' button
